@@ -67,7 +67,6 @@ finding the libbitcoin install.
 
 './configure' also accepts the following flags:
   --enable-testnet (enables the alternative blockchain used for testing)
-  --enable-debug   (verbose output)
 
 Compile/Build Flags
 -------------------
